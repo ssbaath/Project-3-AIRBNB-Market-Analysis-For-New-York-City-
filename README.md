@@ -32,22 +32,26 @@ The dashboard for our app has click buttons for four tabs and html script can be
 
 
 ![image](/Images/ImageNo1.png)
-*The first page was created to showcase the conduction of task distribution.
+* The first page was created to showcase the conduction of task distribution.
 
 
 
 * The second page shows comparative analysis via three types of graphs as follows:
 1. Graph1: Comparison of the types of room distribution in year 2019 and 2023.
 
-![Image](/Images/ImageNo3.png)
+![Image](/Images/ImageNo2.png)
+
 2. Graph2: Comparison of total number of accomodation available in the 5 burroughs of New York City for AirBnB for year 2019 and 2023.
 
-![Image](/Images/ImageNo2.png)
+![Image](/Images/ImageNo3.png)
+
 3. Graph3: Pie-graph to show the top 10 neighbourhoods available for year 2019 and 2023.
+![Image](/Images/ImageNo4.png)
+  
 4. Graph4: Pie-graph to show the bottom 10 neighbourhoods available for year 2019 and 2023.
+![Image](/Images/ImageNo5.png)
 
 
-The dropdown selection allows the user year selection.
 
 The third visualization tab is the average rents and units available in the centres across provinces using [plotly](https://plotly.com/) and code is [here](https://github.com/RimpleDabas/Interactive-Visualizations_Canadian_Rental_market/blob/main/app/static/js/logic.js) along with forth tab. 
 ![Image](/Images/dashboard%20page%203.png)
