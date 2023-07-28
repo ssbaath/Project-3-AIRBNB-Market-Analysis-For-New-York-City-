@@ -5,19 +5,19 @@ New York, the largest city in the United States, has an estimated population of 
 
 ##Website Development  
 The steps involved in making the website are as follows:
-(i) Extraction of Data from the following link: http://insideairbnb.com/
-(ii) EDA Conducted on the data via Google Collaboratory Notebook
-(iii) Data deployed on MongoDB Local Server
-(iv) Mongo DB linked to the Flask App, to fetch the data 
-(v) The dataset is jasonified and sent to the html pages for visual calculation and display via HighCharts.js library.
+### Extraction of Data from the following link: http://insideairbnb.com/
+### EDA Conducted on the data via Google Collaboratory Notebook
+### Data deployed on MongoDB Local Server
+### Mongo DB linked to the Flask App, to fetch the data 
+### The dataset is jasonified and sent to the html pages for visual calculation and display via HighCharts.js library.
 
 ##Technologies Used 
-![image](/Images/Google Collab.png)
-![image](/Images/Python Flask.jpg)
-![image](/Images/MongoDB.png)
-![image](/Images/html.png)
-![image](/Images/css.png)
-![image](/Images/Highcharts.png)
+###![image](/Images/Google Colab.png)
+###![image](/Images/Python Flask.jpg)
+###![image](/Images/MongoDB.png)
+###![image](/Images/html.png)
+###![image](/Images/css.png)
+###![image](/Images/Highcharts.png)
 
 ## ETL
 
