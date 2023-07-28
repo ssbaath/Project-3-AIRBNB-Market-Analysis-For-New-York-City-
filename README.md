@@ -11,8 +11,9 @@ The steps involved in making the website are as follows:
 *Mongo DB linked to the Flask App, to fetch the data 
 *The dataset is jasonified and sent to the html pages for visual calculation and display via HighCharts.js library.
 
+![image](/Images/All_Tech.png)
 ## Technologies Used 
-*Google Collaboratory Notebook
+* Google Collaboratory Notebook
 * Python
 * Flask
 * MONGODB
@@ -20,7 +21,7 @@ The steps involved in making the website are as follows:
 * CSS
 * Highcharts.js Library
   
-![image](/Images/All_Tech.png)
+
 
 ## ETL
 
