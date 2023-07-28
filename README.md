@@ -5,11 +5,11 @@ New York, the largest city in the United States, has an estimated population of 
 
 ##Website Development  
 The steps involved in making the website are as follows:
-*Extraction of Data from the following link: http://insideairbnb.com/
-*EDA Conducted on the data via Google Collaboratory Notebook
-*Data deployed on MongoDB Local Server
-*Mongo DB linked to the Flask App, to fetch the data 
-*The dataset is jasonified and sent to the html pages for visual calculation and display via HighCharts.js library.
+* Extraction of Data from the following link: http://insideairbnb.com/
+* EDA Conducted on the data via Google Collaboratory Notebook
+* Data deployed on MongoDB Local Server
+* Mongo DB linked to the Flask App, to fetch the data 
+* The dataset is jasonified and sent to the html pages for visual calculation and display via HighCharts.js library.
 
 ![image](/Images/All_Tech.png)
 ## Technologies Used 
@@ -19,6 +19,7 @@ The steps involved in making the website are as follows:
 * MONGODB
 * HTML
 * CSS
+* Javascript
 * Highcharts.js Library
   
 
@@ -33,18 +34,7 @@ The datasets for these were converted in [csv](https://github.com/RimpleDabas/In
 
 We used MongoDB Atlas cloud database and AWS as a cloud service proivider for our project.
 
-## Devlopment 
-Following were used for the building process :
-- Flask
-- PyMongo
-- Python
-- Javascript
-- CSS
-- HTML
-- D3
-- Charts.js
-- Plotly 
-- Leaflet
+
 
 
 ## Description 
