@@ -21,20 +21,6 @@ The steps involved in making the website are as follows:
 * CSS
 * Javascript
 * Highcharts.js Library
-  
-
-
-## ETL
-
-The data for the analysis was collected from Canada Mortgage and Housing Corporation (CMHC) can be found [here](https://www.cmhc-schl.gc.ca/en/professionals/housing-markets-data-and-research/housing-data/data-tables/).
-Additional geographical information was [extracted](https://github.com/RimpleDabas/Interactive-Visualizations_Canadian_Rental_market/blob/main/Resources/API_Calls.ipynb) using [Geopify](https://www.geoapify.com/).
-
-For the transformation cleaning was done using jupyter. Data was transformed for both [relational](https://github.com/RimpleDabas/Interactive-Visualizations_Canadian_Rental_market/blob/main/Resources/Extraction_tranformation.ipynb) and [non relational databases](https://github.com/RimpleDabas/Interactive-Visualizations_Canadian_Rental_market/blob/main/api/tranformation/mongo_import.ipynb). 
-The datasets for these were converted in [csv](https://github.com/RimpleDabas/Interactive-Visualizations_Canadian_Rental_market/tree/main/Postgresql%20files) and [json formats](https://github.com/RimpleDabas/Interactive-Visualizations_Canadian_Rental_market/tree/main/api/output).
-
-We used MongoDB Atlas cloud database and AWS as a cloud service proivider for our project.
-
-
 
 
 ## Description 
@@ -45,11 +31,21 @@ The dashboard for our app has click buttons for four tabs and html script can be
  The first one is yearly trend by years. It is built using [charts](!https://www.chartjs.org/) javascript library and code for the same is [here](https://github.com/RimpleDabas/Interactive-Visualizations_Canadian_Rental_market/blob/main/app/static/js/app.js).
 
 
-![image](/Images/dashboard%20page%201.png)
- It provides the insights for the Average rents and Vacancy rates across provinces over the years 2018-2022. Clickable buttons allow to add or delete the province based on the selection.
+![image](/Images/ImageNo1.png)
+The first page was created to showcase the conduction of task distribution.
 
-The second is the number of units available across provinces over the years 2018-2022 using charts library.
-![Image](/Images/dashboard%20page%202.png)
+
+![Image](/Images/ImageNo2.png)
+The second page shows comparative analysis via three types of graphs as follows:
+* Graph1: Comparison of the types of room distribution in year 2019 and 2023.
+
+![Image](/Images/ImageNo3.png)
+* Graph2: Comparison of total number of accomodation available in the 5 burroughs of New York City for AirBnB for year 2019 and 2023.
+
+![Image](/Images/ImageNo2.png)
+* Graph3: Pie-graph to show the top 10 neighbourhoods available for year 2019 and 2023.
+* Graph4: Pie-graph to show the bottom 10 neighbourhoods available for year 2019 and 2023.
+
 
 The dropdown selection allows the user year selection.
 
