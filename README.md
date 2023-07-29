@@ -52,6 +52,7 @@ Findings:
 
 Findings:  
 (a) The names of the neighbourhood remain the same for both the years 2019 and 2023, with a bit of change in the numerical configuration for the house listings. 
+
 (b) Williamsburg and Bedford-Stuyvesant remain the highest holders of number of AirBnb house listings for 2019 and 2023.
 
 ![Image](/Images/Image4.png)
@@ -71,6 +72,13 @@ Findings:
 * The third graph shows the comparison of mean price distribution over the 5 burroughs in the new york city for year 2019 and 2023. 
 ![Image](/Images/Image6.png)
 
+Findings : 
+(a) Most expensive AirBnb accomodations for both years of 2019 and 2023 were from Manhattan and Staten Island.
+
+(b) AirBnb house listings from Brooklyn, Bronx and Queens were slightly cheaper for both the years 2019 and 2023. 
+
+(c) The house pricing has increased from year 2019 to 2023 comparatively for all the Burroughs in New york City. Since, the time Covid 19 phase got over tourism and traveling was ignited back again. Due to this, the pricing of the accommodation would have been increased in year 2023. As per the current scenario, there is an indication that prices might further increase for the Airbnb house listings in coming times. 
+
 * The fourth graph is bulit using word_cloud alternative with highcharts.js to show all the names of the included neighbourhoods.
 ![Image](/Images/image7.png)
 
@@ -82,6 +90,9 @@ Findings:
  - https://www.highcharts.com/docs/getting-started/system-requirementsE
  - Youtube videos
  - Chat GPT
+ - UofT Bootcamp Tutorials
+ - Flask Documentation
+ - 
 
 
 
