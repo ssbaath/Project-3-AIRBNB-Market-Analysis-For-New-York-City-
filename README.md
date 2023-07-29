@@ -28,28 +28,28 @@ The steps involved in making the website are as follows:
 * The first page was created to showcase the conduction of task distribution.
 ![image](/Images/ImageNo1.png)
 
- - Observation
 
 * The second page shows comparative analysis via three types of graphs as follows:
 1. Graph1: Comparison of the types of room distribution in year 2019 and 2023.
 
- - Observation
+Findings: 
+(a) In year 2019, more rooms were available in comparison to year 2023. 
+(b) Hotel rooms were only availlable in 2023. 
+
 ![Image](/Images/Image2.png)
 
 2. Graph2: Comparison of total number of accomodation available in the 5 burroughs of New York City for AirBnB for year 2019 and 2023.
 
-- Observation
 
 ![Image](/Images/Image3.png)
 
 3. Graph3: Pie-graph to show the top 10 neighbourhoods available for year 2019 and 2023.
 
-- Observation
 ![Image](/Images/Image4.png)
   
 5. Graph4: Pie-graph to show the bottom 10 neighbourhoods available for year 2019 and 2023.
    
-- Observation
+
 ![Image](/Images/Image5.png)
 
 
