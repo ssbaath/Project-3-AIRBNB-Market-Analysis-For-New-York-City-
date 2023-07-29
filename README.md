@@ -56,14 +56,18 @@ The dashboard for our app has click buttons for four tabs and html script can be
 * The third graph shows the comparison of mean price distribution over the 5 burroughs in the new york city for year 2019 and 2023. 
 ![Image](/Images/Image6.png)
 
-*The fourth graph is bulit using word_cloud alternative with highcharts.js to show all the names of the included neighbourhoods.
+* The fourth graph is bulit using word_cloud alternative with highcharts.js to show all the names of the included neighbourhoods.
 ![Image](/Images/image7.png)
 
+## Observations From The Visualized Data 
+
+
+
+
 ## Refrences
- - https://www.chartjs.org/docs/latest/
- - https://plotly.com/javascript/
- - Leaflet
+ - https://www.highcharts.com/docs/getting-started/system-requirementsE
  - Youtube videos
+ - Chat GPT
 
 
 
