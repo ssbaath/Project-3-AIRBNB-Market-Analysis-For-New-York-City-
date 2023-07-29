@@ -53,12 +53,11 @@ The dashboard for our app has click buttons for four tabs and html script can be
 
 
 
-The third visualization tab is the average rents and units available in the centres across provinces using [plotly](https://plotly.com/) and code is [here](https://github.com/RimpleDabas/Interactive-Visualizations_Canadian_Rental_market/blob/main/app/static/js/logic.js) along with forth tab. 
-![Image](/Images/dashboard%20page%203.png)
+* The third graph shows the comparison of mean price distribution over the 5 burroughs in the new york city for year 2019 and 2023. 
+![Image](/Images/Image6.png)
 
-The fourth visualization is bulit using [leaflet](https://leafletjs.com/) which has layers for the average rents and vacancy rates.The size of the markers are based on the data for the location.It allows the user to get the information using pop up feature as below 
-
-![Image](/Images/dashboard%20page%204.png)
+*The fourth graph is bulit using word_cloud alternative with highcharts.js to show all the names of the included neighbourhoods.
+![Image](/Images/Image7.png)
 
 ## Refrences
  - https://www.chartjs.org/docs/latest/
