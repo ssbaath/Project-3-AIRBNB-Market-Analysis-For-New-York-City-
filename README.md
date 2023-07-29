@@ -40,16 +40,30 @@ Findings:
 
 2. Graph2: Comparison of total number of accomodation available in the 5 burroughs of New York City for AirBnB for year 2019 and 2023.
 
+Findings: 
+(a) There were more available accomodating listings in Bronx and Queens in year 2023 in comparison to 2019. However, we see the contrary in the case of Brooklyn, Manhattan for year 2019. 
+(b) Not a big difference in the number of listings for Staten Island in year 2019 and 2023 i.e 56 more listings in year 2023.
+(c) Factors that could influence the number of AirBnb house listings could be the decline of Covid 19, inflation, etc. 
 
-![Image](/Images/Image3.png)
+
+![Image](/Images/Imag3.png)
 
 3. Graph3: Pie-graph to show the top 10 neighbourhoods available for year 2019 and 2023.
+
+Findings:  
+(a) The names of the neighbourhood remain the same for both the years 2019 and 2023, with a bit of change in the numerical configuration for the house listings. 
+(b) Williamsburg and Bedford-Stuyvesant remain the highest holders of number of AirBnb house listings for 2019 and 2023.
 
 ![Image](/Images/Image4.png)
   
 5. Graph4: Pie-graph to show the bottom 10 neighbourhoods available for year 2019 and 2023.
-   
 
+Findings:  
+(a) There is a slight change of the mentioned neighbourhoods for year 2019 and 2023i.e They werent the same for both the years. Few of the common names of the neighbouhood listings for 2019 and 2023 are as follows : (i) Willowbrook (ii) Fort Wadsworth (iii) Howland Hook (iv) Lighthouse Hill (v) New Drop 
+
+(b) The lowest number of AirBnb house listings in the mentioned neighbourhoods for 2019 and 2023 is around 1-2 houses. There is one exception in year 2023, with 3 AirBnb house listings from Huguenot.
+
+   
 ![Image](/Images/Image5.png)
 
 
