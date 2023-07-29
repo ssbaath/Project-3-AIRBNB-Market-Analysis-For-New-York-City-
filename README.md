@@ -57,6 +57,7 @@ The dashboard for our app has click buttons for four tabs and html script can be
 ![Image](/Images/Image6.png)
 
 *The fourth graph is bulit using word_cloud alternative with highcharts.js to show all the names of the included neighbourhoods.
+
 ![Image](/Images/Image7.png)
 
 ## Refrences
