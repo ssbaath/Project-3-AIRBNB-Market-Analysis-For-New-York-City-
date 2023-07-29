@@ -39,17 +39,17 @@ The dashboard for our app has click buttons for four tabs and html script can be
 * The second page shows comparative analysis via three types of graphs as follows:
 1. Graph1: Comparison of the types of room distribution in year 2019 and 2023.
 
-![Image](/Images/ImageNo2.png)
+![Image](/Images/Image2.png)
 
 2. Graph2: Comparison of total number of accomodation available in the 5 burroughs of New York City for AirBnB for year 2019 and 2023.
 
-![Image](/Images/ImageNo3.png)
+![Image](/Images/Image3.png)
 
 3. Graph3: Pie-graph to show the top 10 neighbourhoods available for year 2019 and 2023.
-![Image](/Images/ImageNo4.png)
+![Image](/Images/Image4.png)
   
 4. Graph4: Pie-graph to show the bottom 10 neighbourhoods available for year 2019 and 2023.
-![Image](/Images/ImageNo5.png)
+![Image](/Images/Image5.png)
 
 
 
