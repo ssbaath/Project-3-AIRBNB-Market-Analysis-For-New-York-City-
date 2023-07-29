@@ -41,8 +41,11 @@ Findings:
 2. Graph2: Comparison of total number of accomodation available in the 5 burroughs of New York City for AirBnB for year 2019 and 2023.
 
 Findings: 
+
 (a) There were more available accomodating listings in Bronx and Queens in year 2023 in comparison to 2019. However, we see the contrary in the case of Brooklyn, Manhattan for year 2019. 
+
 (b) Not a big difference in the number of listings for Staten Island in year 2019 and 2023 i.e 56 more listings in year 2023.
+
 (c) Factors that could influence the number of AirBnb house listings could be the decline of Covid 19, inflation, etc. 
 
 
