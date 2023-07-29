@@ -31,9 +31,9 @@ The dashboard for our app has click buttons for four tabs and html script can be
  The first one is yearly trend by years. It is built using [charts](!https://www.chartjs.org/) javascript library and code for the same is [here](https://github.com/RimpleDabas/Interactive-Visualizations_Canadian_Rental_market/blob/main/app/static/js/app.js).
 
 
-![image](/Images/ImageNo1.png)
-* The first page was created to showcase the conduction of task distribution.
 
+* The first page was created to showcase the conduction of task distribution.
+![image](/Images/ImageNo1.png)
 
 
 * The second page shows comparative analysis via three types of graphs as follows:
