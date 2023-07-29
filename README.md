@@ -24,31 +24,32 @@ The steps involved in making the website are as follows:
 
 
 ## Description 
-Flask code for the app can be located [here](https://github.com/RimpleDabas/Interactive-Visualizations_Canadian_Rental_market/blob/main/app/app.py).
-
-The dashboard for our app has click buttons for four tabs and html script can be located [here](https://github.com/RimpleDabas/Interactive-Visualizations_Canadian_Rental_market/blob/main/app/templates/index.html). 
-
- The first one is yearly trend by years. It is built using [charts](!https://www.chartjs.org/) javascript library and code for the same is [here](https://github.com/RimpleDabas/Interactive-Visualizations_Canadian_Rental_market/blob/main/app/static/js/app.js).
-
-
 
 * The first page was created to showcase the conduction of task distribution.
 ![image](/Images/ImageNo1.png)
 
+ - Observation
 
 * The second page shows comparative analysis via three types of graphs as follows:
 1. Graph1: Comparison of the types of room distribution in year 2019 and 2023.
 
+ - Observation
 ![Image](/Images/Image2.png)
 
 2. Graph2: Comparison of total number of accomodation available in the 5 burroughs of New York City for AirBnB for year 2019 and 2023.
 
+- Observation
+
 ![Image](/Images/Image3.png)
 
 3. Graph3: Pie-graph to show the top 10 neighbourhoods available for year 2019 and 2023.
+
+- Observation
 ![Image](/Images/Image4.png)
   
-4. Graph4: Pie-graph to show the bottom 10 neighbourhoods available for year 2019 and 2023.
+5. Graph4: Pie-graph to show the bottom 10 neighbourhoods available for year 2019 and 2023.
+   
+- Observation
 ![Image](/Images/Image5.png)
 
 
@@ -59,7 +60,6 @@ The dashboard for our app has click buttons for four tabs and html script can be
 * The fourth graph is bulit using word_cloud alternative with highcharts.js to show all the names of the included neighbourhoods.
 ![Image](/Images/image7.png)
 
-## Observations From The Visualized Data 
 
 
 
