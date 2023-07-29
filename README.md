@@ -33,7 +33,9 @@ The steps involved in making the website are as follows:
 1. Graph1: Comparison of the types of room distribution in year 2019 and 2023.
 
 Findings: 
-(a) In year 2019, more rooms were available in comparison to year 2023. 
+
+(a) In year 2019, more rooms were available in comparison to year 2023.
+
 (b) Hotel rooms were only availlable in 2023. 
 
 ![Image](/Images/Image2.png)
