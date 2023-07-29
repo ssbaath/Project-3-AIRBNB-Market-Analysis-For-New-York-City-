@@ -100,11 +100,12 @@ Findings :
 
 
 ## Refrences
- - https://www.highcharts.com/docs/getting-started/system-requirementsE
+ - Highcharts Demo Tutorials
  - Youtube videos
  - Chat GPT
  - UofT Bootcamp Tutorials
  - Flask Documentation
+ - Mongo Db Documentation 
 
 
 
