@@ -3,7 +3,7 @@
 ## Overview 
 New York, the largest city in the United States, has an estimated population of 19.84 million. The dataset used for this project includes AIRBnB accomodation for both local residents as well as tourists who visit the city annually. Being a major tourist attraction, New York receives visitors from various countries like Spain, France, Russia, and more. It is a popular vacation destination for families, and many people also work in the city. However, finding an affordable and suitable living space can be a challenge. With the help of the available dataset from year 2019 and 2023, we aim to analize the current AirBnB Rental Market via data app visualization to offer a cost-effective living option to our clients.
 
-##Website Development  
+## Website Development  
 The steps involved in making the website are as follows:
 * Extraction of Data from the following link: http://insideairbnb.com/
 * EDA Conducted on the data via Google Collaboratory Notebook
