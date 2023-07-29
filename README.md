@@ -51,6 +51,7 @@ Findings:
 3. Graph3: Pie-graph to show the top 10 neighbourhoods available for year 2019 and 2023.
 
 Findings:  
+
 (a) The names of the neighbourhood remain the same for both the years 2019 and 2023, with a bit of change in the numerical configuration for the house listings. 
 
 (b) Williamsburg and Bedford-Stuyvesant remain the highest holders of number of AirBnb house listings for 2019 and 2023.
@@ -60,7 +61,13 @@ Findings:
 5. Graph4: Pie-graph to show the bottom 10 neighbourhoods available for year 2019 and 2023.
 
 Findings:  
-(a) There is a slight change of the mentioned neighbourhoods for year 2019 and 2023i.e They werent the same for both the years. Few of the common names of the neighbouhood listings for 2019 and 2023 are as follows : (i) Willowbrook (ii) Fort Wadsworth (iii) Howland Hook (iv) Lighthouse Hill (v) New Drop 
+
+(a) There is a slight change of the mentioned neighbourhoods for year 2019 and 2023i.e They werent the same for both the years. Few of the common names of the neighbouhood listings for 2019 and 2023 are as follows : 
+      (i) Willowbrook 
+      (ii) Fort Wadsworth 
+      (iii) Howland Hook 
+      (iv) Lighthouse Hill 
+      (v) New Drop 
 
 (b) The lowest number of AirBnb house listings in the mentioned neighbourhoods for 2019 and 2023 is around 1-2 houses. There is one exception in year 2023, with 3 AirBnb house listings from Huguenot.
 
@@ -73,6 +80,7 @@ Findings:
 ![Image](/Images/Image6.png)
 
 Findings : 
+
 (a) Most expensive AirBnb accomodations for both years of 2019 and 2023 were from Manhattan and Staten Island.
 
 (b) AirBnb house listings from Brooklyn, Bronx and Queens were slightly cheaper for both the years 2019 and 2023. 
@@ -92,7 +100,7 @@ Findings :
  - Chat GPT
  - UofT Bootcamp Tutorials
  - Flask Documentation
- - 
+
 
 
 
